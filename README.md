@@ -2,8 +2,6 @@
 End-to-end Banking Risk Analytics project using Python, SQL, and Power BI featuring customer risk profiling, fraud detection analytics, loan default analysis, portfolio risk monitoring, DAX measures, decomposition trees, and executive dashboards.
 
 
-# Banking Risk Intelligence Dashboard
-
 ## Project Overview
 
 The Banking Risk Intelligence Dashboard is an end-to-end analytics solution designed to monitor customer risk, fraud exposure, loan defaults, and lending portfolio performance. The project combines Python, SQL, and Power BI to transform banking data into actionable business insights for risk management and decision-making.
